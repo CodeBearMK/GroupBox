@@ -1,0 +1,11 @@
+D:\cat32tw\Desktop\GroupBox\bin\Debug\GroupBox.exe.config
+D:\cat32tw\Desktop\GroupBox\bin\Debug\GroupBox.exe
+D:\cat32tw\Desktop\GroupBox\bin\Debug\GroupBox.pdb
+D:\cat32tw\Desktop\GroupBox\obj\Debug\GroupBox.csproj.AssemblyReference.cache
+D:\cat32tw\Desktop\GroupBox\obj\Debug\GroupBox.csproj.SuggestedBindingRedirects.cache
+D:\cat32tw\Desktop\GroupBox\obj\Debug\GroupBox.Form1.resources
+D:\cat32tw\Desktop\GroupBox\obj\Debug\GroupBox.Properties.Resources.resources
+D:\cat32tw\Desktop\GroupBox\obj\Debug\GroupBox.csproj.GenerateResource.cache
+D:\cat32tw\Desktop\GroupBox\obj\Debug\GroupBox.csproj.CoreCompileInputs.cache
+D:\cat32tw\Desktop\GroupBox\obj\Debug\GroupBox.exe
+D:\cat32tw\Desktop\GroupBox\obj\Debug\GroupBox.pdb
